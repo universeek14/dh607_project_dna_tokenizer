@@ -37,4 +37,4 @@ ClinVar (NCBI, GRCh38 VCF), UCSC hg38 with phyloP 100-way, ENCODE SCREEN, JASPAR
 
 ## Credits
 
-Analysis scripts: Sanskriti Kadam. Pretraining, downstream evaluation and shared tokenizer code: Vishnu A M (add link). EvoLen belongs to its authors.
+Analysis scripts: Sanskriti Kadam. Pretraining, downstream evaluation and shared tokenizer code: Vishnu A M. EvoLen belongs to its authors.
